@@ -23,7 +23,7 @@ body{
 }
 
 .chr {
-    width: 600px;
+    width: 550px;
     height: 250px;
     display: flex;
     flex-wrap: wrap;
