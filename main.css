@@ -22,7 +22,7 @@ body{
 }
 
 .chr {
-    width: 500px;
+    width: 560px;
     height: 250px;
     display: flex;
     flex-wrap: wrap;
